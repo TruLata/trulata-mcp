@@ -1,0 +1,10 @@
+{
+  "name": "trulata",
+  "version": "1.0.0",
+  "description": "TruLata: read, update and add your leads, and see your published posts.",
+  "mcpServers": {
+    "trulata": {
+      "httpUrl": "https://api.trulata.com/mcp"
+    }
+  }
+}
