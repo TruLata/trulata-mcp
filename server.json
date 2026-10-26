@@ -3,12 +3,25 @@
   "name": "com.trulata/trulata",
   "title": "TruLata",
   "description": "AI marketing software for service businesses: read, update and add leads, and see your posts.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://trulata.com/product/api#mcp",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://api.trulata.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/TruLata/trulata-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/TruLata/trulata-mcp/main/icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
     }
   ]
 }
